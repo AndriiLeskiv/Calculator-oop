@@ -28,7 +28,7 @@ class Calc{
                 return $result;
                 break;
             default:
-                echo "Error.. Try again";
+                echo "Error..";
                 break;
         }
     }
